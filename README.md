@@ -3,6 +3,7 @@ AIRLINES TICKET BOOKING SYSTEM
 
 Getting Started
 
+This Project uses a Reservation system to book tickets in the provided Airlines. Online booking of tickets ensures Conjestion control of Passengers, and also saves a lot of time. The Passengers are also assured with easy access to the Airline Portal.
 
 This Repository contains a UML Diagram (.mdj), PDF format of the UML diagram(.pdf), Python code files generated for the UML Diagram (.py), an ER Diagram (.pdf).
 
