@@ -12,6 +12,7 @@ The Code generated for the UML diagram mentined above is also attached to the RE
 These files can be found at MyWays/Model/
 
 The above mentioned ER Diagram is drawn using an Online Editor at https://cloud.smartdraw.com/editor.aspx?credID=-34906494&depoId=27239675&flags=128.
+The name of the UML file (.pdf) is 'Final ERD' provided in the REPO. 
  Everything inside the ER Diagram is drawn manually, but not using any Automation. This file can be found at MyWays/Final ERD.pdf
 
  
